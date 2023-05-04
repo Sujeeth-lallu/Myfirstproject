@@ -13,6 +13,7 @@ public class miniproject {
 		 System.out.println("3. Even or odd");
 		 System.out.println("4. prime");
 		 System.out.println("please select your choice of program :");
+		 System.out.println("For git");
 		 
 		 int choice = sc.nextInt();
 		 
